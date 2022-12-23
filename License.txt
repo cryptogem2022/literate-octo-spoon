@@ -1,0 +1,10 @@
+License 
+
+
+[YES] Can sell the product to end users
+[YES] Can sell any kind of rights
+[YES] Can be re-sold at any price
+[YES] Can be offered through auction sites
+
+  
+[NO] Can be given away
